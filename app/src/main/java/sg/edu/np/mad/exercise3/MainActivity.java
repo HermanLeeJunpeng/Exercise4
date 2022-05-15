@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 TextView randomnumtxt = findViewById(R.id.BigText);
                 String numbers = "MAD" + " " + randonum;
                 randomnumtxt.setText(numbers);
+                int test = 123;
 
 
 
